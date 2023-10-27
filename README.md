@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mudit Kashyap</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+[![An image of @muditkashyap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muditkashyap)](https://holopin.io/@muditkashyap)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditkashyap&label=Profile%20views&color=0e75b6&style=flat" alt="muditkashyap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muditkashyap" alt="muditkashyap" /></a> </p>
